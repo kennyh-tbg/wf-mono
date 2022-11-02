@@ -1,0 +1,21 @@
+{
+  "name": "universal-sandbox.sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest ./",
+    "lint": "eslint ./",
+    "build": "npm run lint && npm run jest --passWithNoTests && switchScriptTool --pack ./ ../../../.build"
+  },
+  "keywords": [],
+  "author": "The Bernard Group | Workflow Team",
+  "license": "ISC",
+  "dependencies": {
+    "@wf-mono/dictonary": "*"
+  },
+  "devDependencies": {
+    "eslint": "7.19.0",
+    "jest": "26.6.3"
+  }
+}
