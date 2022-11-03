@@ -1,5 +1,5 @@
 {
-  "name": "@wf-mono/dictionary",
+  "name": "dictionary",
   "private": true,
   "version": "1.0.0",
   "main": "index.js",

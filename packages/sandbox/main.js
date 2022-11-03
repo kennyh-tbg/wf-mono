@@ -1,4 +1,4 @@
-const { color } = require('dictionary');
+const { color } = require('@wf-mono/dictionary');
 /**
  * A sandbox to test in
  * @author Kenny Hammerlund

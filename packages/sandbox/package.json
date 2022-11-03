@@ -12,7 +12,7 @@
   "author": "The Bernard Group | Workflow Team",
   "license": "ISC",
   "dependencies": {
-    "@wf-mono/dictonary": "*"
+    "@wf-mono/dictionary": "*"
   },
   "devDependencies": {
     "eslint": "7.19.0",
